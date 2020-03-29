@@ -1,0 +1,7 @@
+api:
+  countryapi:
+    method: GET
+    path: rest/v2/all
+    successStatusCode: 200
+    responseSchema: null
+
